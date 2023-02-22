@@ -1,0 +1,27 @@
+{
+  "name": "smooth-scrolling",
+  "version": "1.0.0",
+  "description": "smooth-scrolling component",
+  "main": "index.html",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shourov-rahman/smooth-scrolling.git"
+  },
+  "author": "Shourov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shourov-rahman/smooth-scrolling/issues"
+  },
+  "homepage": "https://github.com/shourov-rahman/smooth-scrolling#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "2.8.4"
+  }
+}
