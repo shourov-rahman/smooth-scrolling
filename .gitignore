@@ -1,0 +1,28 @@
+# OS specific (Linux) 
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Ignoring project-planning-and-building-process folder
+/docs/project-planning-and-building-process
+
+# IDE
+.idea/
+.vscode/
+
+# Node.js dependencies
+node_modules/
+
+# Node.js logs
+*.log
+
+# Builds
+build/
+dist/
+
+# lock json file 
+/package-lock.json
+
+# Bundler 
+/.parcel-cache
