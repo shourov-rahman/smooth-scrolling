@@ -31,5 +31,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "@studio-freight/lenis": "^0.2.28"
   }
 }
