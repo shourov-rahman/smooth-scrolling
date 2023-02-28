@@ -2,12 +2,14 @@
 - <a href="#about-smooth-scrolling-repository"> About smooth-scrolling repository </a> 
 - <a href="#technologies"> Technologies </a>
 - <a href="#functionality"> Functionality </a>
-- <a href="my-learning-from-smooth-scrolling-project"> My learning from smooth-scrolling project </a>
+- <a href="#my-learning-from-smooth-scrolling-project"> My learning from smooth-scrolling project </a>
 
 
 ## <span id="about-smooth-scrolling-repository" style="font-weight:700"> About smooth-scrolling repository </span>
 
 This repository is all about scrolling a webpage smoothly.  
+
+[Live Link](https://shourov-rahman.github.io/smooth-scrolling/)
 
 ## <span id="technologies" style="font-weight:700"> Technologies </span>
 
